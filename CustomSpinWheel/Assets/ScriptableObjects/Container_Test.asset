@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 21c768daab4035343b14d04dc625bace, type: 3}
+  m_Name: Container_Test
+  m_EditorClassIdentifier: 
+  spinWheelItems:
+  - {fileID: 11400000, guid: bdf7e87d6bb6f0c47b9f5431b11b43b0, type: 2}
+  - {fileID: 11400000, guid: 38b49399b93a0524f84d0cb01b1f746c, type: 2}
+  - {fileID: 11400000, guid: a568f79bd97318f4cbdb1acef6aea363, type: 2}
+  - {fileID: 11400000, guid: f06a4084222d63142bff092f09a30878, type: 2}
+  - {fileID: 11400000, guid: 33b6a0da0de5313459659a09437ff673, type: 2}
+  - {fileID: 11400000, guid: 5f7edd280821bd145b7285cf204e5e1b, type: 2}
+  - {fileID: 11400000, guid: c968fe78de901f4429b4e4701160f42d, type: 2}
+  - {fileID: 11400000, guid: ebc5d499d1ee4fc44b810d35cae9bde0, type: 2}

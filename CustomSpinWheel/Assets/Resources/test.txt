@@ -1,0 +1,1013 @@
+===== DROP TEST ===== Total Drops: 1000
+
+Life 30 Min | Total Drops: 200 | DropRate: 20%
+Brush x3 | Total Drops: 94 | DropRate: 9.4%
+Gems x35 | Total Drops: 105 | DropRate: 10.5%
+Hammer x3 | Total Drops: 110 | DropRate: 11%
+Coins x750 | Total Drops: 44 | DropRate: 4.4%
+Brush x1 | Total Drops: 197 | DropRate: 19.7%
+Gem x75 | Total Drops: 49 | DropRate: 4.9%
+Hammer x1 | Total Drops: 201 | DropRate: 20.1%
+
+===== LOG =====
+
+Life 30 Min
+Brush x3
+Brush x1
+Hammer x1
+Life 30 Min
+Brush x3
+Life 30 Min
+Life 30 Min
+Hammer x1
+Hammer x3
+Life 30 Min
+Hammer x1
+Hammer x1
+Coins x750
+Life 30 Min
+Brush x3
+Hammer x1
+Brush x3
+Brush x1
+Brush x1
+Brush x1
+Hammer x1
+Life 30 Min
+Brush x3
+Hammer x1
+Hammer x1
+Gems x35
+Hammer x3
+Life 30 Min
+Life 30 Min
+Brush x1
+Hammer x1
+Coins x750
+Life 30 Min
+Brush x3
+Coins x750
+Gems x35
+Life 30 Min
+Brush x1
+Gems x35
+Brush x1
+Hammer x1
+Hammer x1
+Life 30 Min
+Hammer x1
+Coins x750
+Hammer x1
+Hammer x1
+Gems x35
+Brush x3
+Life 30 Min
+Gems x35
+Gem x75
+Brush x3
+Hammer x1
+Brush x1
+Brush x3
+Gems x35
+Hammer x1
+Gems x35
+Life 30 Min
+Gems x35
+Life 30 Min
+Coins x750
+Life 30 Min
+Hammer x1
+Gems x35
+Brush x1
+Hammer x1
+Life 30 Min
+Brush x1
+Life 30 Min
+Life 30 Min
+Brush x1
+Hammer x1
+Brush x3
+Life 30 Min
+Life 30 Min
+Gem x75
+Gems x35
+Hammer x1
+Hammer x1
+Brush x1
+Brush x3
+Gems x35
+Hammer x1
+Brush x3
+Coins x750
+Hammer x1
+Hammer x3
+Brush x1
+Gems x35
+Gems x35
+Life 30 Min
+Coins x750
+Life 30 Min
+Brush x3
+Brush x1
+Life 30 Min
+Hammer x1
+Gems x35
+Brush x1
+Brush x1
+Life 30 Min
+Brush x3
+Hammer x1
+Gems x35
+Hammer x1
+Life 30 Min
+Life 30 Min
+Life 30 Min
+Brush x1
+Brush x3
+Brush x1
+Life 30 Min
+Hammer x3
+Life 30 Min
+Life 30 Min
+Brush x3
+Hammer x1
+Life 30 Min
+Hammer x3
+Life 30 Min
+Brush x3
+Life 30 Min
+Life 30 Min
+Hammer x1
+Brush x1
+Life 30 Min
+Hammer x1
+Life 30 Min
+Hammer x1
+Gems x35
+Hammer x1
+Hammer x1
+Brush x3
+Gems x35
+Hammer x1
+Hammer x1
+Brush x1
+Brush x1
+Brush x1
+Life 30 Min
+Life 30 Min
+Gem x75
+Brush x3
+Hammer x3
+Hammer x3
+Gem x75
+Gem x75
+Brush x1
+Life 30 Min
+Hammer x1
+Life 30 Min
+Brush x1
+Life 30 Min
+Gems x35
+Gems x35
+Coins x750
+Life 30 Min
+Brush x1
+Hammer x1
+Brush x1
+Brush x1
+Brush x1
+Gems x35
+Hammer x3
+Life 30 Min
+Life 30 Min
+Hammer x3
+Brush x1
+Gems x35
+Hammer x3
+Life 30 Min
+Brush x3
+Hammer x3
+Brush x1
+Hammer x1
+Brush x1
+Gems x35
+Hammer x1
+Hammer x1
+Life 30 Min
+Brush x1
+Hammer x3
+Life 30 Min
+Brush x1
+Hammer x3
+Brush x1
+Brush x1
+Gems x35
+Life 30 Min
+Brush x1
+Hammer x3
+Brush x1
+Brush x3
+Brush x3
+Hammer x1
+Life 30 Min
+Life 30 Min
+Hammer x3
+Gems x35
+Hammer x1
+Brush x1
+Life 30 Min
+Gems x35
+Life 30 Min
+Hammer x1
+Brush x1
+Hammer x3
+Life 30 Min
+Hammer x3
+Hammer x1
+Brush x1
+Hammer x3
+Gem x75
+Hammer x1
+Hammer x1
+Brush x1
+Hammer x3
+Hammer x1
+Hammer x3
+Gems x35
+Life 30 Min
+Life 30 Min
+Brush x1
+Hammer x1
+Gems x35
+Brush x1
+Brush x1
+Life 30 Min
+Brush x1
+Hammer x3
+Brush x3
+Life 30 Min
+Life 30 Min
+Brush x1
+Brush x1
+Hammer x1
+Life 30 Min
+Brush x3
+Hammer x3
+Life 30 Min
+Hammer x1
+Hammer x3
+Life 30 Min
+Brush x1
+Brush x3
+Brush x1
+Brush x1
+Brush x1
+Life 30 Min
+Hammer x1
+Gem x75
+Hammer x3
+Hammer x3
+Brush x3
+Brush x1
+Life 30 Min
+Hammer x3
+Hammer x1
+Gems x35
+Brush x1
+Brush x3
+Life 30 Min
+Life 30 Min
+Life 30 Min
+Life 30 Min
+Brush x1
+Gems x35
+Brush x1
+Brush x1
+Coins x750
+Hammer x1
+Coins x750
+Hammer x3
+Hammer x1
+Life 30 Min
+Life 30 Min
+Brush x1
+Gems x35
+Brush x3
+Hammer x1
+Hammer x3
+Hammer x1
+Hammer x1
+Gems x35
+Gems x35
+Brush x1
+Brush x3
+Life 30 Min
+Gem x75
+Life 30 Min
+Life 30 Min
+Hammer x1
+Gems x35
+Brush x1
+Gem x75
+Life 30 Min
+Hammer x1
+Gems x35
+Hammer x1
+Brush x1
+Hammer x3
+Hammer x1
+Hammer x1
+Coins x750
+Brush x3
+Gem x75
+Brush x3
+Coins x750
+Coins x750
+Brush x1
+Hammer x1
+Gems x35
+Hammer x3
+Life 30 Min
+Hammer x3
+Hammer x1
+Hammer x1
+Brush x1
+Hammer x3
+Hammer x3
+Life 30 Min
+Hammer x1
+Hammer x1
+Hammer x1
+Hammer x1
+Life 30 Min
+Gem x75
+Brush x1
+Life 30 Min
+Brush x3
+Brush x1
+Hammer x1
+Hammer x1
+Hammer x1
+Hammer x3
+Hammer x1
+Hammer x1
+Hammer x1
+Hammer x3
+Brush x1
+Brush x1
+Hammer x1
+Hammer x3
+Life 30 Min
+Brush x1
+Brush x1
+Life 30 Min
+Brush x1
+Coins x750
+Hammer x3
+Gems x35
+Hammer x3
+Hammer x1
+Hammer x3
+Brush x1
+Hammer x1
+Hammer x1
+Hammer x1
+Life 30 Min
+Hammer x3
+Life 30 Min
+Brush x1
+Brush x1
+Gems x35
+Life 30 Min
+Brush x1
+Brush x3
+Brush x1
+Hammer x1
+Brush x1
+Gem x75
+Life 30 Min
+Hammer x3
+Brush x3
+Gem x75
+Life 30 Min
+Hammer x1
+Life 30 Min
+Coins x750
+Hammer x3
+Life 30 Min
+Hammer x1
+Life 30 Min
+Gem x75
+Coins x750
+Brush x1
+Life 30 Min
+Gems x35
+Brush x3
+Life 30 Min
+Life 30 Min
+Brush x1
+Brush x1
+Brush x3
+Life 30 Min
+Hammer x1
+Hammer x1
+Gems x35
+Brush x1
+Brush x1
+Brush x1
+Brush x3
+Brush x1
+Hammer x3
+Life 30 Min
+Gem x75
+Life 30 Min
+Gems x35
+Gems x35
+Brush x1
+Life 30 Min
+Hammer x1
+Brush x1
+Gem x75
+Coins x750
+Brush x3
+Brush x1
+Hammer x1
+Brush x1
+Life 30 Min
+Life 30 Min
+Brush x3
+Hammer x3
+Hammer x1
+Coins x750
+Hammer x1
+Hammer x1
+Brush x3
+Brush x3
+Brush x3
+Brush x1
+Brush x3
+Brush x3
+Hammer x1
+Brush x3
+Gems x35
+Brush x3
+Brush x3
+Gems x35
+Life 30 Min
+Brush x3
+Hammer x3
+Hammer x3
+Brush x1
+Brush x1
+Hammer x1
+Hammer x3
+Brush x3
+Brush x1
+Brush x1
+Life 30 Min
+Brush x3
+Hammer x1
+Brush x1
+Brush x3
+Brush x1
+Hammer x3
+Brush x3
+Life 30 Min
+Life 30 Min
+Gems x35
+Life 30 Min
+Hammer x3
+Hammer x3
+Life 30 Min
+Hammer x1
+Hammer x3
+Hammer x3
+Gems x35
+Gems x35
+Life 30 Min
+Life 30 Min
+Hammer x3
+Life 30 Min
+Brush x1
+Hammer x3
+Gems x35
+Hammer x3
+Hammer x1
+Hammer x3
+Hammer x3
+Life 30 Min
+Hammer x3
+Hammer x1
+Brush x1
+Brush x1
+Hammer x1
+Life 30 Min
+Gems x35
+Coins x750
+Brush x3
+Gems x35
+Life 30 Min
+Brush x1
+Hammer x3
+Brush x1
+Life 30 Min
+Gem x75
+Brush x1
+Gems x35
+Hammer x1
+Gems x35
+Brush x1
+Brush x1
+Hammer x3
+Brush x1
+Brush x1
+Brush x1
+Life 30 Min
+Life 30 Min
+Hammer x1
+Gems x35
+Hammer x1
+Gems x35
+Hammer x3
+Life 30 Min
+Brush x1
+Brush x1
+Hammer x1
+Hammer x1
+Gems x35
+Brush x1
+Brush x3
+Gems x35
+Hammer x1
+Hammer x1
+Gem x75
+Hammer x1
+Hammer x1
+Coins x750
+Brush x1
+Brush x3
+Hammer x1
+Gem x75
+Brush x1
+Life 30 Min
+Life 30 Min
+Brush x3
+Brush x1
+Brush x1
+Gems x35
+Hammer x3
+Hammer x1
+Brush x1
+Brush x1
+Brush x1
+Gems x35
+Brush x1
+Life 30 Min
+Gem x75
+Life 30 Min
+Life 30 Min
+Brush x1
+Hammer x1
+Hammer x1
+Hammer x3
+Hammer x1
+Brush x3
+Brush x1
+Life 30 Min
+Hammer x3
+Brush x1
+Hammer x1
+Brush x1
+Brush x1
+Life 30 Min
+Life 30 Min
+Gem x75
+Coins x750
+Life 30 Min
+Gems x35
+Life 30 Min
+Hammer x1
+Hammer x1
+Brush x3
+Life 30 Min
+Brush x1
+Brush x3
+Gems x35
+Life 30 Min
+Brush x3
+Hammer x3
+Brush x1
+Life 30 Min
+Coins x750
+Hammer x1
+Life 30 Min
+Hammer x1
+Gem x75
+Life 30 Min
+Gem x75
+Hammer x3
+Brush x1
+Life 30 Min
+Life 30 Min
+Hammer x1
+Brush x3
+Hammer x3
+Life 30 Min
+Coins x750
+Brush x3
+Brush x1
+Hammer x3
+Brush x1
+Brush x3
+Gems x35
+Gem x75
+Life 30 Min
+Brush x1
+Hammer x1
+Brush x1
+Hammer x1
+Life 30 Min
+Hammer x1
+Life 30 Min
+Hammer x1
+Gems x35
+Hammer x3
+Brush x1
+Coins x750
+Brush x1
+Gem x75
+Coins x750
+Gem x75
+Hammer x1
+Brush x1
+Hammer x1
+Gems x35
+Gems x35
+Hammer x3
+Hammer x3
+Brush x1
+Life 30 Min
+Gems x35
+Hammer x3
+Life 30 Min
+Brush x1
+Hammer x1
+Life 30 Min
+Brush x1
+Gems x35
+Hammer x3
+Hammer x3
+Brush x3
+Life 30 Min
+Hammer x1
+Hammer x1
+Brush x3
+Brush x1
+Hammer x1
+Brush x1
+Coins x750
+Brush x1
+Gem x75
+Gems x35
+Hammer x1
+Life 30 Min
+Brush x3
+Gems x35
+Brush x3
+Hammer x1
+Brush x1
+Brush x1
+Gems x35
+Brush x1
+Gem x75
+Hammer x1
+Life 30 Min
+Hammer x1
+Hammer x3
+Brush x3
+Hammer x1
+Coins x750
+Gems x35
+Life 30 Min
+Brush x1
+Brush x3
+Gems x35
+Hammer x1
+Life 30 Min
+Coins x750
+Life 30 Min
+Hammer x1
+Life 30 Min
+Gems x35
+Hammer x3
+Hammer x3
+Brush x1
+Coins x750
+Brush x1
+Brush x3
+Gems x35
+Gems x35
+Brush x1
+Gems x35
+Coins x750
+Life 30 Min
+Gems x35
+Coins x750
+Gems x35
+Gem x75
+Brush x1
+Brush x1
+Hammer x1
+Life 30 Min
+Brush x3
+Gems x35
+Hammer x1
+Life 30 Min
+Gem x75
+Gem x75
+Brush x1
+Hammer x3
+Life 30 Min
+Gem x75
+Hammer x1
+Hammer x3
+Brush x1
+Life 30 Min
+Hammer x1
+Hammer x1
+Hammer x1
+Life 30 Min
+Brush x1
+Gem x75
+Life 30 Min
+Brush x3
+Gem x75
+Life 30 Min
+Brush x1
+Brush x1
+Brush x1
+Hammer x1
+Hammer x1
+Life 30 Min
+Brush x1
+Brush x1
+Hammer x3
+Hammer x1
+Hammer x1
+Hammer x1
+Brush x3
+Hammer x3
+Life 30 Min
+Hammer x1
+Hammer x1
+Gems x35
+Hammer x1
+Hammer x1
+Brush x3
+Hammer x3
+Hammer x3
+Gems x35
+Brush x1
+Gems x35
+Brush x3
+Hammer x1
+Brush x3
+Coins x750
+Brush x3
+Hammer x3
+Hammer x1
+Hammer x1
+Brush x1
+Life 30 Min
+Brush x1
+Gem x75
+Coins x750
+Hammer x1
+Hammer x1
+Brush x1
+Life 30 Min
+Life 30 Min
+Life 30 Min
+Gem x75
+Hammer x1
+Hammer x3
+Hammer x1
+Coins x750
+Brush x3
+Brush x1
+Life 30 Min
+Brush x1
+Brush x1
+Coins x750
+Coins x750
+Life 30 Min
+Brush x3
+Life 30 Min
+Brush x1
+Brush x3
+Hammer x1
+Life 30 Min
+Brush x1
+Gem x75
+Hammer x1
+Hammer x1
+Hammer x1
+Brush x1
+Life 30 Min
+Brush x1
+Hammer x1
+Brush x3
+Brush x1
+Life 30 Min
+Hammer x1
+Coins x750
+Life 30 Min
+Brush x1
+Brush x3
+Gems x35
+Life 30 Min
+Brush x1
+Brush x1
+Hammer x1
+Life 30 Min
+Hammer x3
+Brush x1
+Hammer x1
+Life 30 Min
+Life 30 Min
+Gem x75
+Hammer x3
+Gems x35
+Life 30 Min
+Life 30 Min
+Hammer x1
+Hammer x1
+Hammer x3
+Gem x75
+Hammer x3
+Hammer x1
+Brush x1
+Gems x35
+Gems x35
+Hammer x3
+Gems x35
+Gems x35
+Gems x35
+Gem x75
+Hammer x3
+Life 30 Min
+Hammer x3
+Hammer x1
+Gem x75
+Hammer x3
+Brush x1
+Brush x1
+Brush x1
+Brush x3
+Gem x75
+Life 30 Min
+Hammer x1
+Hammer x1
+Brush x1
+Gems x35
+Gems x35
+Hammer x1
+Hammer x3
+Gems x35
+Hammer x1
+Hammer x3
+Life 30 Min
+Life 30 Min
+Gem x75
+Hammer x1
+Hammer x3
+Gems x35
+Coins x750
+Brush x1
+Gems x35
+Gems x35
+Coins x750
+Gems x35
+Gem x75
+Hammer x1
+Brush x3
+Hammer x1
+Gems x35
+Brush x1
+Life 30 Min
+Hammer x1
+Gems x35
+Hammer x3
+Hammer x1
+Brush x1
+Gems x35
+Hammer x1
+Hammer x3
+Brush x1
+Hammer x1
+Brush x3
+Life 30 Min
+Gems x35
+Brush x3
+Gems x35
+Hammer x3
+Life 30 Min
+Hammer x3
+Life 30 Min
+Brush x1
+Brush x3
+Coins x750
+Gems x35
+Life 30 Min
+Brush x1
+Gems x35
+Hammer x1
+Life 30 Min
+Hammer x1
+Life 30 Min
+Life 30 Min
+Life 30 Min
+Brush x1
+Gem x75
+Life 30 Min
+Life 30 Min
+Hammer x1
+Brush x3
+Hammer x3
+Gem x75
+Brush x1
+Brush x1
+Life 30 Min
+Life 30 Min
+Hammer x1
+Gems x35
+Brush x1
+Brush x1
+Hammer x1
+Hammer x3
+Life 30 Min
+Hammer x1
+Life 30 Min
+Life 30 Min
+Life 30 Min
+Hammer x3
+Brush x3
+Brush x1
+Gem x75
+Brush x1
+Brush x1
+Brush x1
+Gem x75
+Hammer x3
+Coins x750
+Hammer x3
+Hammer x1
+Brush x1
+Hammer x3
+Hammer x1
+Life 30 Min
+Brush x1
+Hammer x1
+Brush x1
+Gems x35
+Hammer x3
+Brush x1
+Hammer x1
+Brush x1
+Hammer x1
+Brush x1
+Brush x3
+Hammer x1
+Brush x3
+Gems x35
+Hammer x1
+Coins x750
+Hammer x3
+Hammer x1
+Coins x750
+Life 30 Min
+Life 30 Min
+Gems x35
+Hammer x1
+Brush x3
+Hammer x1
+Life 30 Min
+Brush x3
+Hammer x1
+Gem x75
+Hammer x1
+Life 30 Min
+Brush x3
+Hammer x3
+Hammer x1
+Brush x1
+Hammer x3
+Coins x750
+Hammer x1
+Hammer x1
+Life 30 Min
+Hammer x1
+Hammer x1
+Life 30 Min
+Life 30 Min
+Brush x1
